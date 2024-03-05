@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "IIT Bombay"
-date: 2014-01-01
+date: Jan. 2019 - May 2019
 location: "Mumbai, India"
 ---
 
